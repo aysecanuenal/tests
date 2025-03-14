@@ -3,7 +3,7 @@ site_url: https://aysecanuenal.github.io/test-site
 theme:
   name: material
   palette:
-  primary: 'orange'  
+    primary: 'orange'  
 
   icon:
     logo: material/glass-cocktail    
