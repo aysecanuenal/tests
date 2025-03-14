@@ -1,5 +1,5 @@
 # What time is it?
 
-![You know what time](assets/aperol.jpg)
+![You know what time](../assets/aperol.jpg)
 
 
